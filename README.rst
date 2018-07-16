@@ -9,8 +9,11 @@
     :alt: Documentation Status
 
 
-container-transform
+container-transform @ QUID
 ===================
+This is the Quid fork of container-transform. We decided to fork the project (it is not supported anymore, last change was 9+ months ago) to be able to upgrade
+Docker and Docker Compose versions in [shipit](https://bitbucket.int.quid.com/projects/STACKS/repos/shipit/browse) project.
+
 container-transform is a small utility to transform various docker container
 formats to one another.
 
